@@ -1,0 +1,4 @@
+C:\Users\user1\source\repos\xnj nj\xnj nj\obj\Debug\net7.0\xnj nj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\xnj nj\xnj nj\obj\Debug\net7.0\xnj nj.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\xnj nj\xnj nj\obj\Debug\net7.0\xnj nj.AssemblyInfo.cs
+C:\Users\user1\source\repos\xnj nj\xnj nj\obj\Debug\net7.0\xnj nj.csproj.CoreCompileInputs.cache
